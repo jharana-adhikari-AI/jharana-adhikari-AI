@@ -8,6 +8,9 @@
   <a href="mailto:jharanaadk@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.kaggle.com/competitions/is-the-traffic-collision-fatal" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle%20Competition-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Competition" />
+  </a>
 </div>
 
 <br/>
