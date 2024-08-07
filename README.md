@@ -11,6 +11,9 @@
   <a href="https://www.kaggle.com/competitions/is-the-traffic-collision-fatal" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle%20Competition-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Competition" />
   </a>
+  <a href="https://www.upwork.com/freelancers/~0105eb76e2aa846950?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6F5D8F?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile" />
+  </a>
 </div>
 
 <br/>
