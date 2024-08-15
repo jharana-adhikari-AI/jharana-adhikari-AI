@@ -1,33 +1,22 @@
-# Hi there 👋, Welcome to My Humble GitHub Profile!
+# Hi there 👋, Welcome to My GitHub Profile!
 
-My name is Jharana Adhikari, and I'm a passionate data analyst in the making! With a diverse background in software development, SEO, and content writing, I've always had a keen interest in leveraging technology to create impactful solutions. 🌟
-
-After years of experience in full-stack web development and digital marketing, I decided to leap into the world of data science and AI. I'm currently immersed in learning the intricacies of AI and machine learning through my postgraduate studies at Lambton College. 🚀
+I'm Jharana Adhikari, a data analyst in the making with a diverse background in software development, SEO, and content writing. 🌟 My passion for technology led me to transition into data science and AI, where I'm currently deepening my knowledge through postgraduate studies at Lambton College.
 
 ## What You'll Find Here
 
-In this GitHub space, you'll discover a variety of projects that reflect my journey and growth in the fields of data analysis, machine learning, and AI. From exploratory data analysis to predictive modeling, I'm constantly pushing myself to apply what I've learned in meaningful ways.
-
-My projects often involve:
-- **Python**: My go-to language for data analysis and machine learning.
-- **SQL**: Essential for managing and querying datasets.
-- **Web Development**: Utilizing frameworks like Django and Flask for deploying AI models.
-- **NLP**: Natural language processing is a particular area of interest, with projects that involve translating and analyzing text.
-- **Power BI & Excel**: For creating insightful data visualizations and reports.
-
-## My Favorite Projects
-
-I've pinned some of my favorite projects for you to explore. These showcase my work in clustering algorithms, predictive modeling, and more. ⭐️
+Explore a variety of projects that showcase my skills in:
+- **Python** & **SQL**: For data analysis and machine learning.
+- **Web Development**: Deploying AI models using Django and Flask.
+- **NLP**: Translating and analyzing text data.
+- **Power BI & Excel**: Creating insightful data visualizations.
 
 ## My Journey and Goals
 
-I thrive on learning and applying new technologies. My strong interest in AI drives me to continuously seek out opportunities to grow, learn, and contribute to the tech industry. Whether it's increasing online visibility through smart content or building AI models to solve real-world problems, I'm all in!
-
-In the future, I hope to make a significant impact in the field of AI, particularly in areas that promote social good. My career goal is to work as an AI analyst, where I can bridge the intelligence gap in technology and help shape the digital landscape.
+I'm driven by a strong interest in AI and continuous learning. My goal is to make a significant impact as an AI analyst, applying my skills to solve real-world problems and shape the digital landscape.
 
 ## Let's Connect
 
-If you'd like to learn more about my background and experience, I encourage you to visit my [LinkedIn profile](https://www.linkedin.com/in/jharana-adhikari). 💼 I'm always open to connecting with like-minded individuals and exploring new opportunities.
+Visit my [LinkedIn profile](https://www.linkedin.com/in/jharana-adhikari) to learn more about my background and experience. 💼
 
 Thank you for visiting my GitHub profile! 😊
 
