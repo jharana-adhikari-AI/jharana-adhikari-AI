@@ -1,12 +1,12 @@
 # Hi there 👋, Welcome to My GitHub Profile!
 
-I'm Jharana Adhikari, a data analyst in the making with a diverse background in software development, SEO, and content writing. 🌟 My passion for technology led me to transition into data science and AI, where I'm currently deepening my knowledge through postgraduate studies at Lambton College.
+I'm Jharana Adhikari, a data analyst in the making with a diverse background in full-stack Django  development, SEO, and content writing. 🌟 My passion for technology led me to transition into data science and AI, where I'm currently deepening my knowledge through postgraduate studies at Lambton College.
 
 ## What You'll Find Here
 
 Explore a variety of projects that showcase my skills in:
 - **Python** & **SQL**: For data analysis and machine learning.
-- **Web Development**: Deploying AI models using Django and Flask.
+- **Web Development**: Deploying AI models using Django, Django REST Framework  and Flask.
 - **NLP**: Translating and analyzing text data.
 - **Power BI & Excel**: Creating insightful data visualizations.
 
