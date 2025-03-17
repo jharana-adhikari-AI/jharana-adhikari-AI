@@ -4,13 +4,7 @@ I'm Jharana Adhikari, a data engineer in the making with a diverse background in
 
 ## What You'll Find Here
 
-Explore a variety of projects that showcase my skills in:
-- **Python** & **SQL**: For data analysis and machine learning.
-- **Web Development**: Deploying AI models using Django, Django REST Framework  and Flask.
-- **NLP**: Translating and analyzing text data.
-- **Power BI & Excel**: Creating insightful data visualizations.
-
-### MY SKILLS:
+Explore a variety of projects that showcase my skills in:]
 - Programming & AI: Python, TensorFlow, PyTorch, OpenCV, YOLO Models, Scikit-learn, NLP, Deep Learning, Machine Learning Algorithms
 - Data Processing & Engineering: SQL, Pandas, Numpy, Data Cleaning, Feature Engineering, ETL, Data Visualization
 - Cloud & DevOps: AWS, CI/CD, Git, System Integration, Cloud Computing
