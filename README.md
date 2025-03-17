@@ -10,6 +10,15 @@ Explore a variety of projects that showcase my skills in:
 - **NLP**: Translating and analyzing text data.
 - **Power BI & Excel**: Creating insightful data visualizations.
 
+### MY SKILLS:
+- Programming & AI: Python, TensorFlow, PyTorch, OpenCV, YOLO Models, Scikit-learn, NLP, Deep Learning, Machine Learning Algorithms
+- Data Processing & Engineering: SQL, Pandas, Numpy, Data Cleaning, Feature Engineering, ETL, Data Visualization
+- Cloud & DevOps: AWS, CI/CD, Git, System Integration, Cloud Computing
+- Analytics & Visualization: Power BI, Tableau, Seaborn, Matplotlib
+- Web Development: Flask, Django, REST API, JavaScript, HTML, CSS
+- Collaboration & Project Management: Jira, Confluence, Agile Methodologies, Software Testing, Reporting
+
+
 ## My Journey and Goals
 
 I'm driven by a strong interest in AI and continuous learning. My goal is to make a significant impact as an AI analyst, applying my skills to solve real-world problems and shape the digital landscape.
