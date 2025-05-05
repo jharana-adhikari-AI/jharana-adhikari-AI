@@ -4,14 +4,14 @@ I'm Jharana Adhikari, a data engineer in the making with a diverse background in
 
 ## What You'll Find Here
 
-Explore a variety of projects that showcase my skills in:]
-- Programming & AI: Python, TensorFlow, PyTorch, OpenCV, YOLO Models, Scikit-learn, NLP, Deep Learning, Machine Learning Algorithms
-- Data Processing & Engineering: SQL, Pandas, Numpy, Data Cleaning, Feature Engineering, ETL, Data Visualization
-- Cloud & DevOps: AWS, CI/CD, Git, System Integration, Cloud Computing
-- Analytics & Visualization: Power BI, Tableau, Seaborn, Matplotlib
-- Web Development: Flask, Django, REST API, JavaScript, HTML, CSS
-- Collaboration & Project Management: Jira, Confluence, Agile Methodologies, Software Testing, Reporting
-
+Explore a variety of projects that showcase my skills in:
+🔹Programming & AI: Python, TensorFlow, PyTorch, OpenCV, YOLO Models, Scikit-learn, Natural Language Processing (NLP), Deep Learning, Machine Learning Algorithms, Large Language Models (LLMs) including GPT, BERT, GPT-2, and their orchestration via LangChain
+🔹 Data Processing & Engineering: SQL, Pandas, NumPy, Data Cleaning, Feature Engineering, ETL Pipelines, Data Wrangling, Prompt Engineering for structured data analysis
+🔹 Cloud & DevOps: AWS, CI/CD Pipelines, Git, System Integration, Cloud Deployment, Containerization with Docker
+🔹 Analytics & Visualization: Power BI, Tableau, Seaborn, Matplotlib, Streamlit, and Dash for interactive dashboards powered by AI
+🔹 Web Development & Deployment: Flask, Django, FastAPI, REST API Development, JavaScript, HTML, CSS, real-time AI tool deployment using Streamlit and FastAPI
+🔹 LLM Applications & Tools: LangChain, OpenAI API, Prompt Engineering, Retrieval-Augmented Generation (RAG), Financial Chatbots, Excel-driven LLM simulations, Report Summarization Tools
+🔹 Collaboration & Project Management: Jira, Confluence, Agile Methodologies, Software Testing, Version Control, Technical Reporting
 
 ## My Journey and Goals
 
