@@ -1,25 +1,54 @@
+
+Copy
+
 # Hi there 👋, Welcome to My GitHub Profile!
 
-I'm Jharana Adhikari, a data engineer in the making with a diverse background in full-stack Django  development, SEO, and content writing. 🌟 My passion for technology led me to transition into data science and AI, where I'm currently deepening my knowledge through postgraduate studies at Lambton College.
+I'm **Jharana Adhikari**, a **Data Engineer and Software Developer** with 3+ years of experience building scalable data pipelines, Big Data processing systems, and production-grade applications. Currently based in Toronto, I bring a diverse background spanning full-stack development, ETL/ELT orchestration, and cloud-native architectures — with postgraduate training in **AI & Machine Learning** from Lambton College.
 
-## What You'll Find Here
+---
 
-Explore a variety of projects that showcase my skills in:
-- **Programming & AI:** Python, TensorFlow, PyTorch, OpenCV, YOLO Models, Scikit-learn, Natural Language Processing (NLP), Deep Learning, Machine Learning Algorithms, Large Language Models (LLMs) including GPT, BERT, GPT-2, and their orchestration via LangChain
-- **Data Processing & Engineering:** SQL, Pandas, NumPy, Data Cleaning, Feature Engineering, ETL Pipelines, Data Wrangling, Prompt Engineering for structured data analysis
-- **Cloud & DevOps:** AWS, CI/CD Pipelines, Git, System Integration, Cloud Deployment, Containerization with Docker
-- **Analytics & Visualization:** Power BI, Tableau, Seaborn, Matplotlib, Streamlit, and Dash for interactive dashboards powered by AI
-- **Web Development & Deployment:** Flask, Django, FastAPI, REST API Development, JavaScript, HTML, CSS, real-time AI tool deployment using Streamlit and FastAPI
-- **LLM Applications & Tools:** LangChain, OpenAI API, Prompt Engineering, Retrieval-Augmented Generation (RAG), Financial Chatbots, Excel-driven LLM simulations, Report Summarization Tools
-- **Collaboration & Project Management:** Jira, Confluence, Agile Methodologies, Software Testing, Version Control, Technical Reporting
+## 🔧 What You'll Find Here
 
-## My Journey and Goals
+Explore projects that showcase my skills in:
 
-I'm driven by a strong interest in AI and continuous learning. My goal is to make a significant impact as an AI analyst, applying my skills to solve real-world problems and shape the digital landscape.
+- **Languages & Backend Development:** Java, Python, Spring Boot, SQL, Bash, FastAPI, Flask, Django, REST APIs, Microservices Architecture
+- **Big Data & Pipeline Engineering:** Apache Spark, Apache Kafka, Apache NiFi, ETL/ELT Pipelines, Data Pipeline Orchestration, Batch & Stream Processing, Enterprise Scheduling
+- **Databases & Data Modeling:** PostgreSQL, MySQL, SQL Server, Pinecone (Vector DB), Database Design & Optimization, Stored Procedures
+- **Cloud & DevOps:** Azure DevOps, AWS (S3, EC2, Lambda), Docker, Kubernetes, Jenkins, GitHub Actions, ArgoCD, CI/CD Pipelines
+- **AI / ML / Data Science:** TensorFlow, PyTorch, LangChain, Scikit-learn, Pandas, NumPy, NLP, Deep Learning, LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering
+- **Analytics & Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Streamlit, Dash
+- **Testing & QA:** Selenium, Robot Framework, Postman, PyTest, REST Assured, Cucumber, Regression & E2E Testing
+- **Collaboration & Practices:** Git, Agile/Scrum, JIRA, Code Reviews, Branching Strategies, Technical Reporting
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Highlights |
+|---------|-----------|------------|
+| **Kijiji House Listing Clustering** | Apache Spark, Kafka, K-Means, DBSCAN, Power BI, PostgreSQL | Processed 80,000+ listings with distributed Big Data pipelines and unsupervised clustering for real estate analysis |
+| **Insurance Document NLP API** | Python, FastAPI, Tesseract OCR, spaCy, PostgreSQL, Docker, Kubernetes | NLP microservice with OCR-based data extraction pipelines, deployed on Docker/Kubernetes |
+| **Financial Document Analysis Chatbot** | LangChain, Pinecone, FastAPI, PyTorch, OCR | RAG pipeline achieving >90% accuracy on financial statement queries |
+| **Apple Stock Time Series Forecasting** | TensorFlow, LSTM, Pandas, NumPy, Matplotlib | LSTM deep learning model with <5% MAPE for stock price prediction |
+
+---
+
+## 📚 Publications & Achievements
+
+- **Published Research Paper (IUBDC 2024)** — NLP-powered mental health chatbot with 87%+ classification accuracy; Top Finalist at STEM Fellowship 2024 (17 finalists from 500+ entries)
+- **Runner-Up, Kaggle Traffic Collision Outcome Prediction** — Ensemble modeling (XGBoost, Random Forest) with SHAP interpretation, achieving 89% accuracy
+
+---
+
+## 🎯 My Journey and Goals
+
+From full-stack development and SEO automation to designing Big Data pipelines and deploying cloud-native systems, my career has been driven by a passion for building reliable, scalable data solutions. I've led Agile teams, mentored developers, and delivered production-grade systems in fast-paced environments. My goal is to continue making a significant impact as a **Data Engineer**, applying my skills to solve complex data challenges at enterprise scale.
+
+---
 
 ## Let's Connect
 
-Visit my [LinkedIn profile](https://www.linkedin.com/in/jharana-adhikari) to learn more about my background and experience. 💼
+Visit my [LinkedIn profile](https://www.linkedin.com/in/jharana-adhikari and my [Portfolio](https://jharana.vercel.app/) to learn more about my background and experience. 💼
 
 Thank you for visiting my GitHub profile! 😊
 
