@@ -3,7 +3,7 @@ Copy
 
 # Hi there 👋, Welcome to My GitHub Profile!
 
-I'm **Jharana Adhikari**, a **AI Engineer and Software Developer** with 3+ years of experience building scalable data pipelines, Big Data processing systems, and production-grade applications. Currently based in Toronto, I bring a diverse background spanning full-stack development, ETL/ELT orchestration, and cloud-native architectures — with postgraduate training in **AI & Machine Learning** from Lambton College.
+I'm **Jharana Adhikari**, an **AI Engineer and Software Developer** with 3+ years of experience building scalable data pipelines, Big Data processing systems, and production-grade applications. Currently based in Toronto, I bring a diverse background spanning full-stack development, ETL/ELT orchestration, and cloud-native architectures — with postgraduate training in **AI & Machine Learning** from Lambton College.
 
 ---
 
